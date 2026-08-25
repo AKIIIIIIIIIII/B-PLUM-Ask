@@ -73,3 +73,9 @@ Users enter three numbers to cast a hexagram, then view a refined result page wi
 1. 使用 Xcode 打开 `B-PLUM-Ask.xcodeproj`
 2. 选择 iPhone 模拟器或真机
 3. 运行 `B-PLUM-Ask`
+
+## License
+
+This project is released under the [PolyForm Noncommercial License 1.0.0](https://polyformproject.org/licenses/noncommercial/1.0.0) and is intended for noncommercial use only.
+
+The license applies only to original code, writing, and design modifications that the author owns or is authorized to license. Third-party dependencies, fonts, images, icons, and other external materials are excluded and remain under their respective licenses.
