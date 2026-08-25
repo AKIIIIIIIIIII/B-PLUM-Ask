@@ -1,4 +1,4 @@
-# Plum.B
+# B-PLUM-Ask
 
 <p align="center">
   A minimalist I Ching divination app built with SwiftUI.
@@ -14,7 +14,7 @@
 
 ## Overview
 
-`Plum.B` is a minimalist SwiftUI app inspired by the visual tone of classical East Asian typography and the symbolic structure of the I Ching.
+`B-PLUM-Ask` is a minimalist SwiftUI app inspired by the visual tone of classical East Asian typography and the symbolic structure of the I Ching.
 
 Users enter three numbers to cast a hexagram, then view a refined result page with the generated gua, judgment text, image commentary, moving line, and the full six-line reading.
 
@@ -49,15 +49,15 @@ Users enter three numbers to cast a hexagram, then view a refined result page wi
 
 ## Run Locally
 
-1. Open `Plum.B.xcodeproj` in Xcode
+1. Open `B-PLUM-Ask.xcodeproj` in Xcode
 2. Select an iPhone simulator or a physical device
-3. Build and run `Plum.B`
+3. Build and run `B-PLUM-Ask`
 
 ---
 
 ## 中文说明
 
-`Plum.B` 是一个以《易经》起卦体验为主题的 SwiftUI 应用，整体视觉强调留白、节奏感，以及中英文字体混排的东方气质。
+`B-PLUM-Ask` 是一个以《易经》起卦体验为主题的 SwiftUI 应用，整体视觉强调留白、节奏感，以及中英文字体混排的东方气质。
 
 用户输入 3 个数字后即可起卦，随后进入结果页查看卦象、卦辞、大象、彖传、动爻，以及完整六爻内容。
 
@@ -70,6 +70,6 @@ Users enter three numbers to cast a hexagram, then view a refined result page wi
 
 ### 本地运行
 
-1. 使用 Xcode 打开 `Plum.B.xcodeproj`
+1. 使用 Xcode 打开 `B-PLUM-Ask.xcodeproj`
 2. 选择 iPhone 模拟器或真机
-3. 运行 `Plum.B`
+3. 运行 `B-PLUM-Ask`
