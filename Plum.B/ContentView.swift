@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  Plum.B
+//  B-PLUM-Ask
 //
 //  Created by aki on 2026/4/10.
 //
@@ -27,7 +27,7 @@ struct ContentView: View {
                     Spacer(minLength: 48)
 
                     VStack(spacing: 8) {
-                        Text("Plum.B")
+                        Text("B-PLUM-Ask")
                             .font(.custom("Noto Serif SC", size: 30))
                             .fontWeight(.light)
                             .tracking(3)
